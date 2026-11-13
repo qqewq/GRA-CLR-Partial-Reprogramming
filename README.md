@@ -1,3 +1,5 @@
+
+https://doi.org/10.5281/zenodo.24192606
 # GRA–CLR–Partial-Reprogramming
 
 Research scaffold for constraint-preserving model revision and machine-checked formal contracts.
